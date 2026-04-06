@@ -4,23 +4,17 @@ A real-time energy monitoring and optimization dashboard for buildings with PV g
 
 # Key Features :
 
-# Live Energy Flow Visualization  
-– Sankey diagram showing real-time distribution from grid, PV, and battery to lighting, HVAC, ventilation, and gas-thermal loads
+Live Energy Flow Visualization: Sankey diagram showing real-time distribution from grid, PV, and battery to lighting, HVAC, ventilation, and gas-thermal loads
 
-# Interactive Monitoring 
-– Time-series charts for PV generation, total load, grid interaction, battery state of charge, and load breakdown
+Interactive Monitoring: Time-series charts for PV generation, total load, grid interaction, battery state of charge, and load breakdown
 
-# Key Performance Metrics 
-– Self-sufficiency percentage, grid import/export, battery cycles, and estimated cost savings
+Key Performance Metrics : Self-sufficiency percentage, grid import/export, battery cycles, and estimated cost savings
 
-# Optimization Recommendations
-– Automated suggestions based on detected patterns (peak loads, low battery levels, high HVAC demand, etc.)
+Optimization Recommendations : Automated suggestions based on detected patterns (peak loads, low battery levels, high HVAC demand, etc.)
 
-# Sample Data Generator 
-– Simulates realistic 24-hour energy profiles for demonstration and testing
+Sample Data Generator : Simulates realistic 24-hour energy profiles for demonstration and testing
 
-# Raw Data Export
-– View and analyze detailed time-stamped energy data
+Raw Data Export : View and analyze detailed time-stamped energy data
 
 # Use Cases
 Building energy managers tracking PV self-consumption
